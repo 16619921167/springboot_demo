@@ -8,6 +8,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringbootApplication {
     public static void main(String[] args) {
         SpringApplication.run(SpringbootApplication.class,args);
-        System.out.println("本地");
+        System.out.println("为什么");
     }
 }
