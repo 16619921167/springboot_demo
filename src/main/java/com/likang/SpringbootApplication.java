@@ -9,7 +9,7 @@ public class SpringbootApplication {
     public static void main(String[] args) {
         SpringApplication.run(SpringbootApplication.class,args);
 
-        System.out.println("2");
+        System.out.println("211111");
 
     }
 }
