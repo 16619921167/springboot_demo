@@ -8,6 +8,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringbootApplication {
     public static void main(String[] args) {
         SpringApplication.run(SpringbootApplication.class,args);
-        System.out.println("1111111111444444444444442222");
+        System.out.println("11122");
     }
 }
